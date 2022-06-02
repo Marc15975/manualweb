@@ -4,7 +4,7 @@ permalink: /html5/formularios-elementos-input/
 ---
 
 ## Nuevos Atributos[![Nuevos Atributos][Marker]{:class="marca"}](#nuevos-atributos)
-En [HTML5][HTML5] aparecen un conjunto de atributos nuevos para los elementos `input` que nos permiten manipular mejor los formularios. Estos son: *placeholder*, *autocomplete* y *autofocus*
+En [HTML5][HTML5] aparecen un conjunto de atributos nuevos para los elementos `input` que nos permiten manipular mejor los formularios. Estos son: *placeholder*, *autocomplete* y *autofocus*aaaaaaaaaaaaaaaaa
 
 ### Placeholder[![Placeholder][Marker]{:class="marca"}](#placeholder)
 Hasta [HTML5][HTML5] la forma que existía de dar información contextual sobre el contenido que había que insertar en un campo de formulario era mediante el elemento label.
